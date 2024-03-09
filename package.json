@@ -1,0 +1,27 @@
+
+{
+"name": "snap-dit-2",
+"version": "1.0.0",
+"description": " a versatile and user-friendly photo editing application designed to cater to both amateur photographers and professional artists alike. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/khoriglidewellu/Snap-Edit.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "khoriglidewellu",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
